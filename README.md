@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Süleyman Talha Duman</h1>
-<h3 align="center">A passionate frontend developer from India :D</h3>
+<h3 align="center">A passionate Karışık developer from India :d</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
