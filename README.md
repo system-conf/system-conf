@@ -11,7 +11,7 @@
     <img src="https://example.com/twitter-icon.svg" alt="twitter" width="40" height="40"/> 
   </a>
   <a href="https://www.suleymantalhaduman.com" target="_blank" rel="noreferrer"> 
-    <img src="[https://example.com/website-icon.svg](https://www.svgrepo.com/show/452229/instagram-1.svg)" alt="website" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="website" width="40" height="40"/> 
   </a> 
 </p>
 
