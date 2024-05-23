@@ -3,9 +3,9 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-  <h5 align="center">A passionate developer from Turkey</h3 style='50%'>
+  <h5  style='50%' align="left">Barmen</h3>
   <a style='50%' href="[https://www.linkedin.com/in/suleymantalhaduman](https://www.linkedin.com/in/system-conf/)" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="linkedin" width="40" height="40"/> 
+    <img style='50%' src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="linkedin" width="40" height="40"/> 
   </a> 
   <a href="https://www.sulo.uno/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/429935/game-joystick-gamepad.svg" alt="twitter" width="40" height="40"/> 
