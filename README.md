@@ -1,6 +1,20 @@
 <h1 align="center">Hi there, I'm Süleyman Talha Duman 👋</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
+<h3 align="left">Projects:</h3>
+<p align="left">
+  <h5 align="center">A passionate developer from Turkey</h3 style='50%'>
+  <a style='50%' href="[https://www.linkedin.com/in/suleymantalhaduman](https://www.linkedin.com/in/system-conf/)" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="linkedin" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sulo.uno/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/429935/game-joystick-gamepad.svg" alt="twitter" width="40" height="40"/> 
+  </a>
+  <a href="https://www.suleymantalha.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/292472/website-ui.svg" alt="website" width="40" height="40"/> 
+  </a> 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Sosyal medya bağlantılarını buraya ekleyin -->
