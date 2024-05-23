@@ -7,7 +7,7 @@
   <a href="[https://www.linkedin.com/in/suleymantalhaduman](https://www.linkedin.com/in/system-conf/)" target="_blank" rel="noreferrer"> 
     <img style='50%' src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="linkedin" width="40" height="40"/> 
   </a> 
-  </h3>
+  </h5>
   
   <a href="https://www.sulo.uno/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/429935/game-joystick-gamepad.svg" alt="twitter" width="40" height="40"/> 
