@@ -9,7 +9,7 @@
    <h4 align="left">React, Node.js</h4>
    <h2 align="left">
    <a href="https://url.sulo.uno/" target="_blank" rel="noreferrer"> 
-     <img src="https://starkbilisim.com/wp-content/uploads/2023/12/favicon.png" alt="Url Shortener" width="30" height="30"/> 
+     
    </a> url.sulo.uno
    </h2>
   
@@ -17,7 +17,7 @@
    <h4 align="left">React, Firebase</h4>
    <h2 align="left">
    <a href="https://tictactoe.sulo.uno/" target="_blank" rel="noreferrer"> 
-     <img src="https://starkbilisim.com/wp-content/uploads/2023/12/favicon.png" alt="TicTocToe Game" width="30" height="30"/> 
+  
    </a> tictactoe.sulo.uno
    </h2>
 
@@ -25,7 +25,7 @@
    <h4 align="left">HTML, CSS, JavaScript</h4>
    <h2 align="left">
    <a href="https://github.com/yourusername/image-to-ascii-converter" target="_blank" rel="noreferrer"> 
-     <img src="https://starkbilisim.com/wp-content/uploads/2023/12/favicon.png" alt="Image to ASCII Converter" width="30" height="30"/> 
+    
    </a> GitHub Repository
    </h2>
 </p>
