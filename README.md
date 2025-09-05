@@ -1,9 +1,5 @@
 # 👋 Merhaba, Ben Süleyman Talha Duman!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300">
-</div>
-
 ## 🚀 Hakkımda
 
 Merhaba! Ben Süleyman Talha Duman, tutkulu bir yazılım geliştiriciyim. Teknoloji dünyasında sürekli öğrenmeyi ve yenilikleri takip etmeyi seviyorum. Kod yazmak benim için sadece bir meslek değil, aynı zamanda bir tutku! 💻
@@ -45,42 +41,6 @@ Merhaba! Ben Süleyman Talha Duman, tutkulu bir yazılım geliştiriciyim. Tekno
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=system-conf&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=system-conf&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=system-conf&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 Sertifikalar
-
-- AWS Certified Solutions Architect
-- Google Cloud Professional Developer
-- Microsoft Azure Fundamentals
-- Docker Certified Associate
-- Kubernetes Administrator (CKA)
-
-## 🚀 Öne Çıkan Projeler
-
-### 🔥 E-Commerce Platform
-- **Teknoloji:** React, Node.js, MongoDB, AWS
-- **Özellikler:** Mikroservis mimarisi, real-time chat, payment integration
-- **Link:** [GitHub Repo](#)
-
-### 📱 Mobile App
-- **Teknoloji:** React Native, Firebase, Redux
-- **Özellikler:** Offline support, push notifications, social login
-- **Link:** [GitHub Repo](#)
-
-### 🤖 AI Chatbot
-- **Teknoloji:** Python, TensorFlow, FastAPI, Docker
-- **Özellikler:** Natural language processing, sentiment analysis
-- **Link:** [GitHub Repo](#)
 
 ## 🎯 2025 Hedeflerim
 
