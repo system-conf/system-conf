@@ -1,76 +1,78 @@
 # 👋 Merhaba, Ben Süleyman Talha Duman!
 
-## 🚀 Hakkımda
+> **Full-Stack Web Developer**
 
-Merhaba! Ben Süleyman Talha Duman, tutkulu bir yazılım geliştiriciyim. Teknoloji dünyasında sürekli öğrenmeyi ve yenilikleri takip etmeyi seviyorum. Kod yazmak benim için sadece bir meslek değil, aynı zamanda bir tutku! 💻
+Merhaba! Ben Süleyman Talha Duman. Modern web teknolojileri kullanarak dinamik, responsive ve kullanıcı dostu arayüzler ile güvenli, ölçeklenebilir backend sistemleri geliştiriyorum. Yapay zeka destekli araçları (Cursor AI, Claude, GitHub Copilot) geliştirme sürecime entegre ederek verimliliğimi artırıyorum.
 
-### 💻 Programlama Dilleri
+## 🚀 Odak Alanlarım
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨 Frontend Development
+Kullanıcı deneyimini ön planda tutarak modern arayüzler tasarlıyorum.
+*   **Core:** React, Next.js
+*   **Language:** TypeScript, JavaScript
+*   **Styling:** Tailwind CSS, CSS3, HTML5
+
+### ⚙️ Backend Development
+Sağlam ve ölçeklenebilir sunucu taraflı uygulamalar geliştiriyorum.
+*   **Runtime:** Node.js
+*   **Database:** MongoDB, PostgreSQL
+*   **API:** RESTful APIs
+
+### ☁️ Full-Stack & Cloud
+Uçtan uca çözümler üretiyor ve dağıtıyorum.
+*   **Stack:** MERN Stack, Next.js Full Stack
+*   **DevOps:** Docker, Git, AWS (Deployment)
+
+---
+
+## 🛠️ Teknolojiler & Araçlar
+
+### Diller
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Framework'ler & Kütüphaneler
-
-**Frontend:**
+### Frameworks & Kütüphaneler
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Veritabanları
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Veritabanı & Araçlar
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🎯 2025 Hedeflerim
+---
 
-- [x] Kod yazmak
-- [x] Projeler geliştirmek
-- [ ] Yeni teknolojiler öğrenmek (Rust, WebAssembly)
-- [ ] Open source projelere katkıda bulunmak
-- [ ] Machine Learning projeleri geliştirmek
-- [ ] Blockchain teknolojilerini öğrenmek
-- [ ] Konferanslarda konuşma yapmak
-- [ ] Teknik blog yazıları yazmak
+## � Seçilmiş Projeler
 
-## 🎮 İlgi Alanlarım
+| Proje Adı | Açıklama |
+| :--- | :--- |
+| **Levirise** | Modern web çözümleri. |
+| **Randevup** | Randevu yönetim sistemi. |
+| **Kapsül** | Teknoloji ve inovasyon platformu. |
+| **Burgerschon Sipariş** | Online yemek sipariş uygulaması. |
+| **Klaket** | Sinema ve medya sektörü için uygulama. |
 
-- 🎮 Oyun geliştirme
-- 🤖 Yapay zeka ve makine öğrenmesi
-- 🔐 Siber güvenlik
-- 📱 Mobil uygulama geliştirme
+---
 
 ## 📫 Bana Ulaşın
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/system-conf/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/system-conf)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/system_conf)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suleymantalha.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@suleymantalha.dev)
+Projeleriniz için benimle iletişime geçmekten çekinmeyin!
+
+[![Website](https://img.shields.io/badge/Website-systemconf.online-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.systemconf.online/)
+[![Email](https://img.shields.io/badge/Email-info%40systemconf.online-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@systemconf.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Süleyman_Talha_Duman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![X (Twitter)](https://img.shields.io/badge/X-%40system__conf-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/system_conf)
+[![GitHub](https://img.shields.io/badge/GitHub-system--conf-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/system-conf)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=system-conf" alt="Profile views">
 </div>
 
 ---
-> "Kod yazmak bir tutku, öğrenmek ise yaşam tarzı! Sürekli gelişim ve yenilik peşindeyim! 💻✨"
+> "Kod yazmak, geleceği inşa etmektir."
