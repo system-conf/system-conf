@@ -21,7 +21,7 @@
 
 ### Open Source Projects
 
-- [**glass-keep-tr**](https://github.com/system-conf/glass-keep-tr) — Türkçe not uygulaması · JavaScript
+- [**Keep-Pro**](https://github.com/system-conf/Keep-Pro) — Not uygulaması · JavaScript
 - [**iftarvaktipro**](https://github.com/system-conf/iftarvaktipro) — İftar vakti uygulaması · TypeScript
 - [**teklifmatik**](https://github.com/system-conf/teklifmatik) — Teklif yönetim sistemi · TypeScript
 - [**turkish-dev-cheatsheets**](https://github.com/system-conf/turkish-dev-cheatsheets) — Türkçe developer cheat sheet koleksiyonu
