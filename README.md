@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/system.conf-0f2027?style=for-the-badge&logo=gnubash&logoColor=4FB3BF" />
   <img src="https://img.shields.io/badge/📍_Kocaeli-2c5364?style=for-the-badge" />
   <img src="https://img.shields.io/badge/İş_Arıyorum-Bilgi_İşlem_/_IT_Destek-4FB3BF?style=for-the-badge" />
 </p>
@@ -26,10 +27,13 @@
     <td width="50%" valign="top">
       <h3>💻 Yazılım & Otomasyon</h3>
       <ul>
-        <li>Kurum içi araçlar ve web uygulamaları</li>
-        <li>API entegrasyonları ve veritabanı</li>
+        <li>Full-stack web uygulamaları (React, Next.js, Node.js)</li>
+        <li>Kurum içi paneller ve yönetim araçları</li>
+        <li>E-ticaret altyapısı ve mobil uygulama</li>
+        <li>API entegrasyonları ve veritabanı (PostgreSQL)</li>
+        <li>Docker ile kurulum ve sunucuya dağıtım</li>
         <li>Script ile tekrar eden işlerin otomasyonu</li>
-        <li>Yapay zeka destekli arıza tespiti</li>
+        <li>Yapay zeka destekli geliştirme ve arıza tespiti</li>
       </ul>
     </td>
   </tr>
