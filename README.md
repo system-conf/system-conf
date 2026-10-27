@@ -49,8 +49,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/system-conf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:info@systemconf.online"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.systemconf.online/"><img src="https://img.shields.io/badge/Web-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:suleyman.talha.duman0@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mesystemconf.com/"><img src="https://img.shields.io/badge/Web-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://x.com/system_conf"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
