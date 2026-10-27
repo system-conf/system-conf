@@ -27,7 +27,6 @@
       <h3>💻 Yazılım & Otomasyon</h3>
       <ul>
         <li>Kurum içi araçlar ve web uygulamaları</li>
-        <li>Kiosk / POS yazılımları</li>
         <li>API entegrasyonları ve veritabanı</li>
         <li>Script ile tekrar eden işlerin otomasyonu</li>
         <li>Yapay zeka destekli arıza tespiti</li>
