@@ -1,33 +1,57 @@
-<h1 align="center">Süleyman Talha Duman</h1>
-<p align="center"><strong>Bilgi İşlem / IT Destek · Yazılım Geliştirici</strong></p>
-<p align="center">Kocaeli · Kullanıcı desteği, sistem ve ağ altyapısı, POS/donanım kurulumu ve süreç otomasyonu.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=S%C3%BCleyman%20Talha%20Duman&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Bilgi%20%C4%B0%C5%9Flem%20%2F%20IT%20Destek%20%C2%B7%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici&descSize=18&descAlignY=58&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=4FB3BF&center=true&vCenter=true&width=560&lines=Kullan%C4%B1c%C4%B1+deste%C4%9Fi+%26+yard%C4%B1m+masas%C4%B1;Windows+Server+%C2%B7+Active+Directory+%C2%B7+M365;POS+%2F+donan%C4%B1m+kurulumu+ve+bak%C4%B1m%C4%B1;S%C3%BCre%C3%A7+otomasyonu+ve+yaz%C4%B1l%C4%B1m" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Kocaeli-2c5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/İş_Arıyorum-Bilgi_İşlem_/_IT_Destek-4FB3BF?style=for-the-badge" />
+</p>
 
 ---
 
-### Sistem & Destek
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ IT Destek & Sistem</h3>
+      <ul>
+        <li>Kullanıcı desteği / yardım masası</li>
+        <li>Windows Server, Active Directory & GPO</li>
+        <li>Microsoft 365, e-posta ve yedekleme</li>
+        <li>DNS / DHCP, switch & access point, VLAN</li>
+        <li>POS / kasa sistemleri, PC bakım & onarım</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Yazılım & Otomasyon</h3>
+      <ul>
+        <li>Kurum içi araçlar ve web uygulamaları</li>
+        <li>Kiosk / POS yazılımları</li>
+        <li>API entegrasyonları ve veritabanı</li>
+        <li>Script ile tekrar eden işlerin otomasyonu</li>
+        <li>Yapay zeka destekli arıza tespiti</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Network](https://img.shields.io/badge/DNS_·_DHCP_·_VLAN-555555?style=flat&logo=cisco&logoColor=white)
+<h3 align="center">Araçlar</h3>
 
-### Yazılım
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,docker,bash,nginx,cloudflare,aws&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,git&theme=dark" />
+</p>
 
 ---
 
-### İletişim
+<h3 align="center">İletişim</h3>
 
-[![Website](https://img.shields.io/badge/systemconf.online-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.systemconf.online/)
-[![Email](https://img.shields.io/badge/info@systemconf.online-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@systemconf.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-system--conf-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/system-conf/)
-[![X](https://img.shields.io/badge/@system__conf-000000?style=flat&logo=x&logoColor=white)](https://x.com/system_conf)
+<p align="center">
+  <a href="https://www.linkedin.com/in/system-conf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:info@systemconf.online"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.systemconf.online/"><img src="https://img.shields.io/badge/Web-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://x.com/system_conf"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
